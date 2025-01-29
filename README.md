@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![VIMAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vimalraj-D)](https://github.com/Vimalraj-d/github-readme-stats)
+[![VIMAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vimalraj-D&show_icons=true)](https://github.com/Vimalraj-d/github-readme-stats)
 <!--
 **Vimalraj-D/Vimalraj-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
