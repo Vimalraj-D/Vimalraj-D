@@ -21,4 +21,8 @@
 | UCI ML Repo 📚 | ![UCI ML Repo](https://img.shields.io/badge/UCI%20ML%20Repository-0057B8?style=for-the-badge&logo=databricks&logoColor=white) |
 | Jupyter Notebook 📓 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 | Raspberry Pi 🍓 | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) |
+| Machine Learning 🤖 | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| Deep Learning 🧠 | ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-563D7C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| Scikit-learn 📊 | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) |
+
 
