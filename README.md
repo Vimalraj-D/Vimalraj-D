@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm VIMALRAJ
 
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/animated-bg.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Vimalraj-D/Vimalraj-D/main/animated-bg.svg" width="100%">
 
 <img alt="my stats"  align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Vimalraj-D&show_icons=true"/>
 
