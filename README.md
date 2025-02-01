@@ -1,8 +1,10 @@
 # Hi there 👋
 
-<img alt="my stats"  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Vimalraj-D&show_icons=true"/>
+<img alt="my stats"  align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Vimalraj-D&show_icons=true"/>
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimalraj-D&layout=compact"/>
+<img alt="top langs" align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimalraj-D&layout=compact"/>
+
+<p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vimalraj-D&" alt="Vimalraj-D" /></p>
 
 ## 🛠️ Tech Stack
 
@@ -24,5 +26,16 @@
 | Machine Learning 🤖 | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 | Deep Learning 🧠 | ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-563D7C?style=for-the-badge&logo=pytorch&logoColor=white) |
 | Scikit-learn 📊 | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) |
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/vimalraj-d-8278972a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vimalraj-d-8278972a5" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/VIMALRAJD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/VIMALRAJD" height="30" width="40" /></a>
+</p>
+
+
+
+
 
 
