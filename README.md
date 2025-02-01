@@ -1,4 +1,5 @@
-# Hi there 👋
+## Hi there 👋
+# I'm VIMALRAJ
 
 <img alt="my stats"  align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Vimalraj-D&show_icons=true"/>
 
@@ -26,10 +27,17 @@
 | Machine Learning 🤖 | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 | Deep Learning 🧠 | ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-563D7C?style=for-the-badge&logo=pytorch&logoColor=white) |
 | Scikit-learn 📊 | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) |
+| Generative AI ֎ | ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white) |
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vimalraj-D&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vimalraj-D&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Vimalraj-D&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
