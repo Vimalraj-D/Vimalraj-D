@@ -36,13 +36,14 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br align="center">
 <div align="center">
-  <br>
-  <img align="center" width="50%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vimalraj-d&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/>
-  <td height="100"></td> <!-- Adds space -->
-  <img  align="center" width="50%" src="https://github-readme-stats-salesp07.vercel.app/api?username=vimalraj-d&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <td height="100"></td> <!-- Adds space -->
-  <br/>
-  <img  align="center" width="50%" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vimalraj-d&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+### 📊 GitHub Analytics
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vimalraj-D&theme=github-dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vimalraj-D&show_icons=true&count_private=true&theme=dark)
+
+![Commit Streak](https://streak-stats.demolab.com/?user=Vimalraj-D&theme=dark)
+
 </div>
 
 
@@ -54,10 +55,10 @@
 <div align="center" style="display: flex; gap: 90%;"> 
 
 
-<a href="https://linkedin.com/in/linkedin.com/in/vimalraj-d-8278972a5" target="blank" style="display: flex; gap: 90%;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vimalraj-d-8278972a5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/vimalraj-d-8278972a5" target="blank" style="display: flex; gap: 90%;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vimalraj-d-8278972a5" height="60" width="60" /></a>
 <a href="mailto:vimalrajnov172005@gmail.com" target="blank" style="display: flex; gap: 90%;">
-    <img align="center" src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="40"></a>
-<a href="https://leetcode.com/u/VIMALRAJD" target="blank" style="display: flex; gap: 90%;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/VIMALRAJD" height="30" width="40" /></a>
+    <img align="center" src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="60" width="60"></a>
+<a href="https://leetcode.com/u/VIMALRAJD" target="blank" style="display: flex; gap: 90%;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/VIMALRAJD" height="60" width="60" /></a>
 </div>
 
 <p align="left">
@@ -68,6 +69,7 @@
 
 ## 🏆 GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=Vimalraj-D&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Shoot+me+a+message+on+Gmail!">
