@@ -36,7 +36,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br align="center">
 <div align="center">
-### 📊 GitHub Analytics
+📊 GitHub Analytics
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vimalraj-D&theme=github-dark)
 
