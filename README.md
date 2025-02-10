@@ -6,6 +6,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vimalraj+D!;" />
 </h1>
 
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Vimalraj-D&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Profile Stats">
+</div>
+
 <h3 align="center">🚀 Machine Learning Engineer | Deep Learning Enthusiast 🤖</h3>
 
 <br/>
