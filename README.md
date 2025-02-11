@@ -10,7 +10,7 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=Vimalraj-D&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Profile Stats">
 </div>
 
-<h3 align="center">🚀 Machine Learning Engineer | Deep Learning Enthusiast 🤖</h3>
+<h3 align="center">🚀 Machine Learning Engineer | Deep Learning Enthusiast 🤖 </h3>
 
 <br/>
 
